@@ -1,0 +1,42 @@
+C:\Users\kim_f\OneDrive\Desktop\Computer Application Development\02 - Software Development Techniques\Group 5 Assignments\As6\PrimeNumberGenerator\PrimeNumberGenerator\bin\Debug\PrimeNumberGenerator.exe.config
+C:\Users\kim_f\OneDrive\Desktop\Computer Application Development\02 - Software Development Techniques\Group 5 Assignments\As6\PrimeNumberGenerator\PrimeNumberGenerator\bin\Debug\PrimeNumberGenerator.exe
+C:\Users\kim_f\OneDrive\Desktop\Computer Application Development\02 - Software Development Techniques\Group 5 Assignments\As6\PrimeNumberGenerator\PrimeNumberGenerator\bin\Debug\PrimeNumberGenerator.pdb
+C:\Users\kim_f\OneDrive\Desktop\Computer Application Development\02 - Software Development Techniques\Group 5 Assignments\As6\PrimeNumberGenerator\PrimeNumberGenerator\obj\Debug\PrimeNumberGenerator.csprojAssemblyReference.cache
+C:\Users\kim_f\OneDrive\Desktop\Computer Application Development\02 - Software Development Techniques\Group 5 Assignments\As6\PrimeNumberGenerator\PrimeNumberGenerator\obj\Debug\MainWindow.g.cs
+C:\Users\kim_f\OneDrive\Desktop\Computer Application Development\02 - Software Development Techniques\Group 5 Assignments\As6\PrimeNumberGenerator\PrimeNumberGenerator\obj\Debug\App.g.cs
+C:\Users\kim_f\OneDrive\Desktop\Computer Application Development\02 - Software Development Techniques\Group 5 Assignments\As6\PrimeNumberGenerator\PrimeNumberGenerator\obj\Debug\PrimeNumberGenerator_MarkupCompile.cache
+C:\Users\kim_f\OneDrive\Desktop\Computer Application Development\02 - Software Development Techniques\Group 5 Assignments\As6\PrimeNumberGenerator\PrimeNumberGenerator\obj\Debug\PrimeNumberGenerator_MarkupCompile.lref
+C:\Users\kim_f\OneDrive\Desktop\Computer Application Development\02 - Software Development Techniques\Group 5 Assignments\As6\PrimeNumberGenerator\PrimeNumberGenerator\obj\Debug\MainWindow.baml
+C:\Users\kim_f\OneDrive\Desktop\Computer Application Development\02 - Software Development Techniques\Group 5 Assignments\As6\PrimeNumberGenerator\PrimeNumberGenerator\obj\Debug\PrimeNumberGenerator.g.resources
+C:\Users\kim_f\OneDrive\Desktop\Computer Application Development\02 - Software Development Techniques\Group 5 Assignments\As6\PrimeNumberGenerator\PrimeNumberGenerator\obj\Debug\PrimeNumberGenerator.Properties.Resources.resources
+C:\Users\kim_f\OneDrive\Desktop\Computer Application Development\02 - Software Development Techniques\Group 5 Assignments\As6\PrimeNumberGenerator\PrimeNumberGenerator\obj\Debug\PrimeNumberGenerator.csproj.GenerateResource.cache
+C:\Users\kim_f\OneDrive\Desktop\Computer Application Development\02 - Software Development Techniques\Group 5 Assignments\As6\PrimeNumberGenerator\PrimeNumberGenerator\obj\Debug\PrimeNumberGenerator.exe
+C:\Users\kim_f\OneDrive\Desktop\Computer Application Development\02 - Software Development Techniques\Group 5 Assignments\As6\PrimeNumberGenerator\PrimeNumberGenerator\obj\Debug\PrimeNumberGenerator.pdb
+C:\Users\kim_f\Downloads\PrimeNumberGenerator\PrimeNumberGenerator\bin\Debug\PrimeNumberGenerator.exe.config
+C:\Users\kim_f\Downloads\PrimeNumberGenerator\PrimeNumberGenerator\bin\Debug\PrimeNumberGenerator.exe
+C:\Users\kim_f\Downloads\PrimeNumberGenerator\PrimeNumberGenerator\bin\Debug\PrimeNumberGenerator.pdb
+C:\Users\kim_f\Downloads\PrimeNumberGenerator\PrimeNumberGenerator\obj\Debug\PrimeNumberGenerator.csprojAssemblyReference.cache
+C:\Users\kim_f\Downloads\PrimeNumberGenerator\PrimeNumberGenerator\obj\Debug\MainWindow.g.cs
+C:\Users\kim_f\Downloads\PrimeNumberGenerator\PrimeNumberGenerator\obj\Debug\App.g.cs
+C:\Users\kim_f\Downloads\PrimeNumberGenerator\PrimeNumberGenerator\obj\Debug\PrimeNumberGenerator_MarkupCompile.cache
+C:\Users\kim_f\Downloads\PrimeNumberGenerator\PrimeNumberGenerator\obj\Debug\PrimeNumberGenerator_MarkupCompile.lref
+C:\Users\kim_f\Downloads\PrimeNumberGenerator\PrimeNumberGenerator\obj\Debug\MainWindow.baml
+C:\Users\kim_f\Downloads\PrimeNumberGenerator\PrimeNumberGenerator\obj\Debug\PrimeNumberGenerator.g.resources
+C:\Users\kim_f\Downloads\PrimeNumberGenerator\PrimeNumberGenerator\obj\Debug\PrimeNumberGenerator.Properties.Resources.resources
+C:\Users\kim_f\Downloads\PrimeNumberGenerator\PrimeNumberGenerator\obj\Debug\PrimeNumberGenerator.csproj.GenerateResource.cache
+C:\Users\kim_f\Downloads\PrimeNumberGenerator\PrimeNumberGenerator\obj\Debug\PrimeNumberGenerator.exe
+C:\Users\kim_f\Downloads\PrimeNumberGenerator\PrimeNumberGenerator\obj\Debug\PrimeNumberGenerator.pdb
+C:\Users\kim_f\Documents\Git\Project\As6\PrimeNumberGenerator\PrimeNumberGenerator\bin\Debug\PrimeNumberGenerator.exe.config
+C:\Users\kim_f\Documents\Git\Project\As6\PrimeNumberGenerator\PrimeNumberGenerator\bin\Debug\PrimeNumberGenerator.exe
+C:\Users\kim_f\Documents\Git\Project\As6\PrimeNumberGenerator\PrimeNumberGenerator\bin\Debug\PrimeNumberGenerator.pdb
+C:\Users\kim_f\Documents\Git\Project\As6\PrimeNumberGenerator\PrimeNumberGenerator\obj\Debug\PrimeNumberGenerator.csprojAssemblyReference.cache
+C:\Users\kim_f\Documents\Git\Project\As6\PrimeNumberGenerator\PrimeNumberGenerator\obj\Debug\MainWindow.g.cs
+C:\Users\kim_f\Documents\Git\Project\As6\PrimeNumberGenerator\PrimeNumberGenerator\obj\Debug\App.g.cs
+C:\Users\kim_f\Documents\Git\Project\As6\PrimeNumberGenerator\PrimeNumberGenerator\obj\Debug\PrimeNumberGenerator_MarkupCompile.cache
+C:\Users\kim_f\Documents\Git\Project\As6\PrimeNumberGenerator\PrimeNumberGenerator\obj\Debug\PrimeNumberGenerator_MarkupCompile.lref
+C:\Users\kim_f\Documents\Git\Project\As6\PrimeNumberGenerator\PrimeNumberGenerator\obj\Debug\MainWindow.baml
+C:\Users\kim_f\Documents\Git\Project\As6\PrimeNumberGenerator\PrimeNumberGenerator\obj\Debug\PrimeNumberGenerator.g.resources
+C:\Users\kim_f\Documents\Git\Project\As6\PrimeNumberGenerator\PrimeNumberGenerator\obj\Debug\PrimeNumberGenerator.Properties.Resources.resources
+C:\Users\kim_f\Documents\Git\Project\As6\PrimeNumberGenerator\PrimeNumberGenerator\obj\Debug\PrimeNumberGenerator.csproj.GenerateResource.cache
+C:\Users\kim_f\Documents\Git\Project\As6\PrimeNumberGenerator\PrimeNumberGenerator\obj\Debug\PrimeNumberGenerator.exe
+C:\Users\kim_f\Documents\Git\Project\As6\PrimeNumberGenerator\PrimeNumberGenerator\obj\Debug\PrimeNumberGenerator.pdb
